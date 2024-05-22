@@ -1,0 +1,14 @@
+/home/azizbek/NUU/4_semestr/Algorithms and data structure 2/graph_alalyze/obj/Debug/net8.0/graph_alalyze.GeneratedMSBuildEditorConfig.editorconfig
+/home/azizbek/NUU/4_semestr/Algorithms and data structure 2/graph_alalyze/obj/Debug/net8.0/graph_alalyze.AssemblyInfoInputs.cache
+/home/azizbek/NUU/4_semestr/Algorithms and data structure 2/graph_alalyze/obj/Debug/net8.0/graph_alalyze.AssemblyInfo.cs
+/home/azizbek/NUU/4_semestr/Algorithms and data structure 2/graph_alalyze/obj/Debug/net8.0/graph_alalyze.csproj.CoreCompileInputs.cache
+/home/azizbek/NUU/4_semestr/Algorithms and data structure 2/graph_alalyze/bin/Debug/net8.0/graph_alalyze
+/home/azizbek/NUU/4_semestr/Algorithms and data structure 2/graph_alalyze/bin/Debug/net8.0/graph_alalyze.deps.json
+/home/azizbek/NUU/4_semestr/Algorithms and data structure 2/graph_alalyze/bin/Debug/net8.0/graph_alalyze.runtimeconfig.json
+/home/azizbek/NUU/4_semestr/Algorithms and data structure 2/graph_alalyze/bin/Debug/net8.0/graph_alalyze.dll
+/home/azizbek/NUU/4_semestr/Algorithms and data structure 2/graph_alalyze/bin/Debug/net8.0/graph_alalyze.pdb
+/home/azizbek/NUU/4_semestr/Algorithms and data structure 2/graph_alalyze/obj/Debug/net8.0/graph_alalyze.dll
+/home/azizbek/NUU/4_semestr/Algorithms and data structure 2/graph_alalyze/obj/Debug/net8.0/refint/graph_alalyze.dll
+/home/azizbek/NUU/4_semestr/Algorithms and data structure 2/graph_alalyze/obj/Debug/net8.0/graph_alalyze.pdb
+/home/azizbek/NUU/4_semestr/Algorithms and data structure 2/graph_alalyze/obj/Debug/net8.0/graph_alalyze.genruntimeconfig.cache
+/home/azizbek/NUU/4_semestr/Algorithms and data structure 2/graph_alalyze/obj/Debug/net8.0/ref/graph_alalyze.dll

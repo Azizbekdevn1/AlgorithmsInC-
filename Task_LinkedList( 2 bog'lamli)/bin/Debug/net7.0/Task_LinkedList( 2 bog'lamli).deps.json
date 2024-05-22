@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Task_LinkedList( 2 bog'lamli)/1.0.0": {
+        "runtime": {
+          "Task_LinkedList( 2 bog'lamli).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Task_LinkedList( 2 bog'lamli)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

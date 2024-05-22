@@ -1,0 +1,14 @@
+D:\NUU\2_course\Algorithms and data structure\Task_LinkedList( 2 bog'lamli)\bin\Debug\net7.0\Task_LinkedList( 2 bog'lamli).exe
+D:\NUU\2_course\Algorithms and data structure\Task_LinkedList( 2 bog'lamli)\bin\Debug\net7.0\Task_LinkedList( 2 bog'lamli).deps.json
+D:\NUU\2_course\Algorithms and data structure\Task_LinkedList( 2 bog'lamli)\bin\Debug\net7.0\Task_LinkedList( 2 bog'lamli).runtimeconfig.json
+D:\NUU\2_course\Algorithms and data structure\Task_LinkedList( 2 bog'lamli)\bin\Debug\net7.0\Task_LinkedList( 2 bog'lamli).dll
+D:\NUU\2_course\Algorithms and data structure\Task_LinkedList( 2 bog'lamli)\bin\Debug\net7.0\Task_LinkedList( 2 bog'lamli).pdb
+D:\NUU\2_course\Algorithms and data structure\Task_LinkedList( 2 bog'lamli)\obj\Debug\net7.0\Task_LinkedList( 2 bog'lamli).GeneratedMSBuildEditorConfig.editorconfig
+D:\NUU\2_course\Algorithms and data structure\Task_LinkedList( 2 bog'lamli)\obj\Debug\net7.0\Task_LinkedList( 2 bog'lamli).AssemblyInfoInputs.cache
+D:\NUU\2_course\Algorithms and data structure\Task_LinkedList( 2 bog'lamli)\obj\Debug\net7.0\Task_LinkedList( 2 bog'lamli).AssemblyInfo.cs
+D:\NUU\2_course\Algorithms and data structure\Task_LinkedList( 2 bog'lamli)\obj\Debug\net7.0\Task_LinkedList( 2 bog'lamli).csproj.CoreCompileInputs.cache
+D:\NUU\2_course\Algorithms and data structure\Task_LinkedList( 2 bog'lamli)\obj\Debug\net7.0\Task_LinkedList( 2 bog'lamli).dll
+D:\NUU\2_course\Algorithms and data structure\Task_LinkedList( 2 bog'lamli)\obj\Debug\net7.0\refint\Task_LinkedList( 2 bog'lamli).dll
+D:\NUU\2_course\Algorithms and data structure\Task_LinkedList( 2 bog'lamli)\obj\Debug\net7.0\Task_LinkedList( 2 bog'lamli).pdb
+D:\NUU\2_course\Algorithms and data structure\Task_LinkedList( 2 bog'lamli)\obj\Debug\net7.0\Task_LinkedList( 2 bog'lamli).genruntimeconfig.cache
+D:\NUU\2_course\Algorithms and data structure\Task_LinkedList( 2 bog'lamli)\obj\Debug\net7.0\ref\Task_LinkedList( 2 bog'lamli).dll

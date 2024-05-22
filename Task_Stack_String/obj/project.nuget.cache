@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "uHo7e0XYhYtM2YI6XFq7F+PiaCdhl/0YXegD/kj79EMfiBskKQm7MVfYheMeMSh9Tr2Z4EUADqlsN/kr7YAF4A==",
+  "success": true,
+  "projectFilePath": "/home/azizbek/NUU/3_semestr/Algorithms and data structure/Task_Satck_String/Task_Satck_String.csproj",
+  "expectedPackageFiles": [
+    "/home/azizbek/.nuget/packages/microsoft.netcore.app.ref/7.0.15/microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "/home/azizbek/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.15/microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "/home/azizbek/.nuget/packages/microsoft.netcore.app.host.linux-x64/7.0.15/microsoft.netcore.app.host.linux-x64.7.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
