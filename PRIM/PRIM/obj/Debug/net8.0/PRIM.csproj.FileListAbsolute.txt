@@ -1,0 +1,14 @@
+D:\Azizbek\PRIM\PRIM\bin\Debug\net8.0\PRIM.exe
+D:\Azizbek\PRIM\PRIM\bin\Debug\net8.0\PRIM.deps.json
+D:\Azizbek\PRIM\PRIM\bin\Debug\net8.0\PRIM.runtimeconfig.json
+D:\Azizbek\PRIM\PRIM\bin\Debug\net8.0\PRIM.dll
+D:\Azizbek\PRIM\PRIM\bin\Debug\net8.0\PRIM.pdb
+D:\Azizbek\PRIM\PRIM\obj\Debug\net8.0\PRIM.GeneratedMSBuildEditorConfig.editorconfig
+D:\Azizbek\PRIM\PRIM\obj\Debug\net8.0\PRIM.AssemblyInfoInputs.cache
+D:\Azizbek\PRIM\PRIM\obj\Debug\net8.0\PRIM.AssemblyInfo.cs
+D:\Azizbek\PRIM\PRIM\obj\Debug\net8.0\PRIM.csproj.CoreCompileInputs.cache
+D:\Azizbek\PRIM\PRIM\obj\Debug\net8.0\PRIM.dll
+D:\Azizbek\PRIM\PRIM\obj\Debug\net8.0\refint\PRIM.dll
+D:\Azizbek\PRIM\PRIM\obj\Debug\net8.0\PRIM.pdb
+D:\Azizbek\PRIM\PRIM\obj\Debug\net8.0\PRIM.genruntimeconfig.cache
+D:\Azizbek\PRIM\PRIM\obj\Debug\net8.0\ref\PRIM.dll

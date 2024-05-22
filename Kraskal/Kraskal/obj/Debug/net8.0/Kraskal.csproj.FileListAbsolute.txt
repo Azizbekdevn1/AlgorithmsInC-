@@ -1,0 +1,14 @@
+D:\Azizbek\Kraskal\Kraskal\bin\Debug\net8.0\Kraskal.exe
+D:\Azizbek\Kraskal\Kraskal\bin\Debug\net8.0\Kraskal.deps.json
+D:\Azizbek\Kraskal\Kraskal\bin\Debug\net8.0\Kraskal.runtimeconfig.json
+D:\Azizbek\Kraskal\Kraskal\bin\Debug\net8.0\Kraskal.dll
+D:\Azizbek\Kraskal\Kraskal\bin\Debug\net8.0\Kraskal.pdb
+D:\Azizbek\Kraskal\Kraskal\obj\Debug\net8.0\Kraskal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Azizbek\Kraskal\Kraskal\obj\Debug\net8.0\Kraskal.AssemblyInfoInputs.cache
+D:\Azizbek\Kraskal\Kraskal\obj\Debug\net8.0\Kraskal.AssemblyInfo.cs
+D:\Azizbek\Kraskal\Kraskal\obj\Debug\net8.0\Kraskal.csproj.CoreCompileInputs.cache
+D:\Azizbek\Kraskal\Kraskal\obj\Debug\net8.0\Kraskal.dll
+D:\Azizbek\Kraskal\Kraskal\obj\Debug\net8.0\refint\Kraskal.dll
+D:\Azizbek\Kraskal\Kraskal\obj\Debug\net8.0\Kraskal.pdb
+D:\Azizbek\Kraskal\Kraskal\obj\Debug\net8.0\Kraskal.genruntimeconfig.cache
+D:\Azizbek\Kraskal\Kraskal\obj\Debug\net8.0\ref\Kraskal.dll

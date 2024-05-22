@@ -1,0 +1,14 @@
+/home/azizbek/Desktop/Algorithms/BFS/bin/Debug/net8.0/BFS
+/home/azizbek/Desktop/Algorithms/BFS/bin/Debug/net8.0/BFS.deps.json
+/home/azizbek/Desktop/Algorithms/BFS/bin/Debug/net8.0/BFS.runtimeconfig.json
+/home/azizbek/Desktop/Algorithms/BFS/bin/Debug/net8.0/BFS.dll
+/home/azizbek/Desktop/Algorithms/BFS/bin/Debug/net8.0/BFS.pdb
+/home/azizbek/Desktop/Algorithms/BFS/obj/Debug/net8.0/BFS.GeneratedMSBuildEditorConfig.editorconfig
+/home/azizbek/Desktop/Algorithms/BFS/obj/Debug/net8.0/BFS.AssemblyInfoInputs.cache
+/home/azizbek/Desktop/Algorithms/BFS/obj/Debug/net8.0/BFS.AssemblyInfo.cs
+/home/azizbek/Desktop/Algorithms/BFS/obj/Debug/net8.0/BFS.csproj.CoreCompileInputs.cache
+/home/azizbek/Desktop/Algorithms/BFS/obj/Debug/net8.0/BFS.dll
+/home/azizbek/Desktop/Algorithms/BFS/obj/Debug/net8.0/refint/BFS.dll
+/home/azizbek/Desktop/Algorithms/BFS/obj/Debug/net8.0/BFS.pdb
+/home/azizbek/Desktop/Algorithms/BFS/obj/Debug/net8.0/BFS.genruntimeconfig.cache
+/home/azizbek/Desktop/Algorithms/BFS/obj/Debug/net8.0/ref/BFS.dll

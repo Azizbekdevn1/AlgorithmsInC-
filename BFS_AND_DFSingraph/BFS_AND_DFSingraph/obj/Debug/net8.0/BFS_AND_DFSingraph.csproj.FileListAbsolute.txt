@@ -1,0 +1,14 @@
+D:\Azizbek\BFS_AND_DFSingraph\BFS_AND_DFSingraph\bin\Debug\net8.0\BFS_AND_DFSingraph.exe
+D:\Azizbek\BFS_AND_DFSingraph\BFS_AND_DFSingraph\bin\Debug\net8.0\BFS_AND_DFSingraph.deps.json
+D:\Azizbek\BFS_AND_DFSingraph\BFS_AND_DFSingraph\bin\Debug\net8.0\BFS_AND_DFSingraph.runtimeconfig.json
+D:\Azizbek\BFS_AND_DFSingraph\BFS_AND_DFSingraph\bin\Debug\net8.0\BFS_AND_DFSingraph.dll
+D:\Azizbek\BFS_AND_DFSingraph\BFS_AND_DFSingraph\bin\Debug\net8.0\BFS_AND_DFSingraph.pdb
+D:\Azizbek\BFS_AND_DFSingraph\BFS_AND_DFSingraph\obj\Debug\net8.0\BFS_AND_DFSingraph.GeneratedMSBuildEditorConfig.editorconfig
+D:\Azizbek\BFS_AND_DFSingraph\BFS_AND_DFSingraph\obj\Debug\net8.0\BFS_AND_DFSingraph.AssemblyInfoInputs.cache
+D:\Azizbek\BFS_AND_DFSingraph\BFS_AND_DFSingraph\obj\Debug\net8.0\BFS_AND_DFSingraph.AssemblyInfo.cs
+D:\Azizbek\BFS_AND_DFSingraph\BFS_AND_DFSingraph\obj\Debug\net8.0\BFS_AND_DFSingraph.csproj.CoreCompileInputs.cache
+D:\Azizbek\BFS_AND_DFSingraph\BFS_AND_DFSingraph\obj\Debug\net8.0\BFS_AND_DFSingraph.dll
+D:\Azizbek\BFS_AND_DFSingraph\BFS_AND_DFSingraph\obj\Debug\net8.0\refint\BFS_AND_DFSingraph.dll
+D:\Azizbek\BFS_AND_DFSingraph\BFS_AND_DFSingraph\obj\Debug\net8.0\BFS_AND_DFSingraph.pdb
+D:\Azizbek\BFS_AND_DFSingraph\BFS_AND_DFSingraph\obj\Debug\net8.0\BFS_AND_DFSingraph.genruntimeconfig.cache
+D:\Azizbek\BFS_AND_DFSingraph\BFS_AND_DFSingraph\obj\Debug\net8.0\ref\BFS_AND_DFSingraph.dll

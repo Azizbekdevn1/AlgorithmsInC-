@@ -1,0 +1,14 @@
+D:\Azizbek\floid)graph\floid)graph\bin\Debug\net8.0\floid)graph.exe
+D:\Azizbek\floid)graph\floid)graph\bin\Debug\net8.0\floid)graph.deps.json
+D:\Azizbek\floid)graph\floid)graph\bin\Debug\net8.0\floid)graph.runtimeconfig.json
+D:\Azizbek\floid)graph\floid)graph\bin\Debug\net8.0\floid)graph.dll
+D:\Azizbek\floid)graph\floid)graph\bin\Debug\net8.0\floid)graph.pdb
+D:\Azizbek\floid)graph\floid)graph\obj\Debug\net8.0\floid)graph.GeneratedMSBuildEditorConfig.editorconfig
+D:\Azizbek\floid)graph\floid)graph\obj\Debug\net8.0\floid)graph.AssemblyInfoInputs.cache
+D:\Azizbek\floid)graph\floid)graph\obj\Debug\net8.0\floid)graph.AssemblyInfo.cs
+D:\Azizbek\floid)graph\floid)graph\obj\Debug\net8.0\floid)graph.csproj.CoreCompileInputs.cache
+D:\Azizbek\floid)graph\floid)graph\obj\Debug\net8.0\floid)graph.dll
+D:\Azizbek\floid)graph\floid)graph\obj\Debug\net8.0\refint\floid)graph.dll
+D:\Azizbek\floid)graph\floid)graph\obj\Debug\net8.0\floid)graph.pdb
+D:\Azizbek\floid)graph\floid)graph\obj\Debug\net8.0\floid)graph.genruntimeconfig.cache
+D:\Azizbek\floid)graph\floid)graph\obj\Debug\net8.0\ref\floid)graph.dll

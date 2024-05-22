@@ -1,0 +1,14 @@
+D:\Azizbek\graph_example\graph_example\bin\Debug\net8.0\graph_example.exe
+D:\Azizbek\graph_example\graph_example\bin\Debug\net8.0\graph_example.deps.json
+D:\Azizbek\graph_example\graph_example\bin\Debug\net8.0\graph_example.runtimeconfig.json
+D:\Azizbek\graph_example\graph_example\bin\Debug\net8.0\graph_example.dll
+D:\Azizbek\graph_example\graph_example\bin\Debug\net8.0\graph_example.pdb
+D:\Azizbek\graph_example\graph_example\obj\Debug\net8.0\graph_example.GeneratedMSBuildEditorConfig.editorconfig
+D:\Azizbek\graph_example\graph_example\obj\Debug\net8.0\graph_example.AssemblyInfoInputs.cache
+D:\Azizbek\graph_example\graph_example\obj\Debug\net8.0\graph_example.AssemblyInfo.cs
+D:\Azizbek\graph_example\graph_example\obj\Debug\net8.0\graph_example.csproj.CoreCompileInputs.cache
+D:\Azizbek\graph_example\graph_example\obj\Debug\net8.0\graph_example.dll
+D:\Azizbek\graph_example\graph_example\obj\Debug\net8.0\refint\graph_example.dll
+D:\Azizbek\graph_example\graph_example\obj\Debug\net8.0\graph_example.pdb
+D:\Azizbek\graph_example\graph_example\obj\Debug\net8.0\graph_example.genruntimeconfig.cache
+D:\Azizbek\graph_example\graph_example\obj\Debug\net8.0\ref\graph_example.dll

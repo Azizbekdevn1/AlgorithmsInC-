@@ -1,0 +1,14 @@
+/home/azizbek/Desktop/Algorithms/KMP/bin/Debug/net8.0/KMP
+/home/azizbek/Desktop/Algorithms/KMP/bin/Debug/net8.0/KMP.deps.json
+/home/azizbek/Desktop/Algorithms/KMP/bin/Debug/net8.0/KMP.runtimeconfig.json
+/home/azizbek/Desktop/Algorithms/KMP/bin/Debug/net8.0/KMP.dll
+/home/azizbek/Desktop/Algorithms/KMP/bin/Debug/net8.0/KMP.pdb
+/home/azizbek/Desktop/Algorithms/KMP/obj/Debug/net8.0/KMP.GeneratedMSBuildEditorConfig.editorconfig
+/home/azizbek/Desktop/Algorithms/KMP/obj/Debug/net8.0/KMP.AssemblyInfoInputs.cache
+/home/azizbek/Desktop/Algorithms/KMP/obj/Debug/net8.0/KMP.AssemblyInfo.cs
+/home/azizbek/Desktop/Algorithms/KMP/obj/Debug/net8.0/KMP.csproj.CoreCompileInputs.cache
+/home/azizbek/Desktop/Algorithms/KMP/obj/Debug/net8.0/KMP.dll
+/home/azizbek/Desktop/Algorithms/KMP/obj/Debug/net8.0/refint/KMP.dll
+/home/azizbek/Desktop/Algorithms/KMP/obj/Debug/net8.0/KMP.pdb
+/home/azizbek/Desktop/Algorithms/KMP/obj/Debug/net8.0/KMP.genruntimeconfig.cache
+/home/azizbek/Desktop/Algorithms/KMP/obj/Debug/net8.0/ref/KMP.dll

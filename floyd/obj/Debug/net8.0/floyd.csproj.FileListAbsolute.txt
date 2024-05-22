@@ -1,0 +1,14 @@
+/home/azizbek/Desktop/Algorithms/floyd/bin/Debug/net8.0/floyd
+/home/azizbek/Desktop/Algorithms/floyd/bin/Debug/net8.0/floyd.deps.json
+/home/azizbek/Desktop/Algorithms/floyd/bin/Debug/net8.0/floyd.runtimeconfig.json
+/home/azizbek/Desktop/Algorithms/floyd/bin/Debug/net8.0/floyd.dll
+/home/azizbek/Desktop/Algorithms/floyd/bin/Debug/net8.0/floyd.pdb
+/home/azizbek/Desktop/Algorithms/floyd/obj/Debug/net8.0/floyd.GeneratedMSBuildEditorConfig.editorconfig
+/home/azizbek/Desktop/Algorithms/floyd/obj/Debug/net8.0/floyd.AssemblyInfoInputs.cache
+/home/azizbek/Desktop/Algorithms/floyd/obj/Debug/net8.0/floyd.AssemblyInfo.cs
+/home/azizbek/Desktop/Algorithms/floyd/obj/Debug/net8.0/floyd.csproj.CoreCompileInputs.cache
+/home/azizbek/Desktop/Algorithms/floyd/obj/Debug/net8.0/floyd.dll
+/home/azizbek/Desktop/Algorithms/floyd/obj/Debug/net8.0/refint/floyd.dll
+/home/azizbek/Desktop/Algorithms/floyd/obj/Debug/net8.0/floyd.pdb
+/home/azizbek/Desktop/Algorithms/floyd/obj/Debug/net8.0/floyd.genruntimeconfig.cache
+/home/azizbek/Desktop/Algorithms/floyd/obj/Debug/net8.0/ref/floyd.dll

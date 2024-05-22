@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Azizbek\\PRIM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0396B55A-E1B4-4D7A-B8E5-89EE0706D100}|PRIM\\PRIM.csproj|d:\\azizbek\\prim\\prim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0396B55A-E1B4-4D7A-B8E5-89EE0706D100}|PRIM\\PRIM.csproj|solutionrelative:prim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Azizbek\\PRIM\\PRIM\\Program.cs",
+              "RelativeDocumentMoniker": "PRIM\\Program.cs",
+              "ToolTip": "D:\\Azizbek\\PRIM\\PRIM\\Program.cs",
+              "RelativeToolTip": "PRIM\\Program.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAAC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T08:21:24.691Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

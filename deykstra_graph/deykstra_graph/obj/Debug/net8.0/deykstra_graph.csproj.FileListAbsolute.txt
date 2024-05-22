@@ -1,0 +1,14 @@
+D:\Azizbek\deykstra_graph\deykstra_graph\bin\Debug\net8.0\deykstra_graph.exe
+D:\Azizbek\deykstra_graph\deykstra_graph\bin\Debug\net8.0\deykstra_graph.deps.json
+D:\Azizbek\deykstra_graph\deykstra_graph\bin\Debug\net8.0\deykstra_graph.runtimeconfig.json
+D:\Azizbek\deykstra_graph\deykstra_graph\bin\Debug\net8.0\deykstra_graph.dll
+D:\Azizbek\deykstra_graph\deykstra_graph\bin\Debug\net8.0\deykstra_graph.pdb
+D:\Azizbek\deykstra_graph\deykstra_graph\obj\Debug\net8.0\deykstra_graph.GeneratedMSBuildEditorConfig.editorconfig
+D:\Azizbek\deykstra_graph\deykstra_graph\obj\Debug\net8.0\deykstra_graph.AssemblyInfoInputs.cache
+D:\Azizbek\deykstra_graph\deykstra_graph\obj\Debug\net8.0\deykstra_graph.AssemblyInfo.cs
+D:\Azizbek\deykstra_graph\deykstra_graph\obj\Debug\net8.0\deykstra_graph.csproj.CoreCompileInputs.cache
+D:\Azizbek\deykstra_graph\deykstra_graph\obj\Debug\net8.0\deykstra_graph.dll
+D:\Azizbek\deykstra_graph\deykstra_graph\obj\Debug\net8.0\refint\deykstra_graph.dll
+D:\Azizbek\deykstra_graph\deykstra_graph\obj\Debug\net8.0\deykstra_graph.pdb
+D:\Azizbek\deykstra_graph\deykstra_graph\obj\Debug\net8.0\deykstra_graph.genruntimeconfig.cache
+D:\Azizbek\deykstra_graph\deykstra_graph\obj\Debug\net8.0\ref\deykstra_graph.dll

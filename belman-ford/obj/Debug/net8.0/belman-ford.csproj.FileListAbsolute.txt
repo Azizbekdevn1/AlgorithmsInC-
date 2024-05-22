@@ -1,0 +1,14 @@
+/home/azizbek/Desktop/Algorithms/belman-ford/bin/Debug/net8.0/belman-ford
+/home/azizbek/Desktop/Algorithms/belman-ford/bin/Debug/net8.0/belman-ford.deps.json
+/home/azizbek/Desktop/Algorithms/belman-ford/bin/Debug/net8.0/belman-ford.runtimeconfig.json
+/home/azizbek/Desktop/Algorithms/belman-ford/bin/Debug/net8.0/belman-ford.dll
+/home/azizbek/Desktop/Algorithms/belman-ford/bin/Debug/net8.0/belman-ford.pdb
+/home/azizbek/Desktop/Algorithms/belman-ford/obj/Debug/net8.0/belman-ford.GeneratedMSBuildEditorConfig.editorconfig
+/home/azizbek/Desktop/Algorithms/belman-ford/obj/Debug/net8.0/belman-ford.AssemblyInfoInputs.cache
+/home/azizbek/Desktop/Algorithms/belman-ford/obj/Debug/net8.0/belman-ford.AssemblyInfo.cs
+/home/azizbek/Desktop/Algorithms/belman-ford/obj/Debug/net8.0/belman-ford.csproj.CoreCompileInputs.cache
+/home/azizbek/Desktop/Algorithms/belman-ford/obj/Debug/net8.0/belman-ford.dll
+/home/azizbek/Desktop/Algorithms/belman-ford/obj/Debug/net8.0/refint/belman-ford.dll
+/home/azizbek/Desktop/Algorithms/belman-ford/obj/Debug/net8.0/belman-ford.pdb
+/home/azizbek/Desktop/Algorithms/belman-ford/obj/Debug/net8.0/belman-ford.genruntimeconfig.cache
+/home/azizbek/Desktop/Algorithms/belman-ford/obj/Debug/net8.0/ref/belman-ford.dll
